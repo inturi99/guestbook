@@ -1,0 +1,20 @@
+15-Sep-23 13:06:49 abelia INFO [guestbook.handler] - 
+-=[guestbook started successfully using the development profile]=-
+15-Sep-23 13:06:49 abelia INFO [guestbook.core] - server started on port: 3000
+15-Sep-23 13:11:18 abelia INFO [guestbook.handler] - guestbook is shutting down...
+15-Sep-23 13:11:18 abelia INFO [guestbook.handler] - shutdown complete!
+15-Sep-23 13:15:56 abelia INFO [guestbook.handler] - 
+-=[guestbook started successfully using the development profile]=-
+15-Sep-23 13:15:57 abelia INFO [guestbook.core] - server started on port: 3000
+15-Sep-23 13:19:31 abelia INFO [guestbook.handler] - guestbook is shutting down...
+15-Sep-23 13:19:31 abelia INFO [guestbook.handler] - shutdown complete!
+15-Sep-23 13:21:06 abelia INFO [guestbook.handler] - 
+-=[guestbook started successfully using the development profile]=-
+15-Sep-23 13:21:06 abelia INFO [guestbook.core] - server started on port: 8000
+15-Sep-23 15:46:42 abelia INFO [guestbook.handler] - guestbook is shutting down...
+15-Sep-23 15:46:42 abelia INFO [guestbook.handler] - shutdown complete!
+15-Sep-23 15:56:29 abelia INFO [guestbook.handler] - 
+-=[guestbook started successfully using the development profile]=-
+15-Sep-23 15:56:29 abelia INFO [guestbook.core] - server started on port: 3000
+15-Sep-23 17:06:51 abelia INFO [guestbook.handler] - guestbook is shutting down...
+15-Sep-23 17:06:51 abelia INFO [guestbook.handler] - shutdown complete!
